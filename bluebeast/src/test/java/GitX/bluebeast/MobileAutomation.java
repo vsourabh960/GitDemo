@@ -20,4 +20,10 @@ public class MobileAutomation {
 	{
 		System.out.println("This section is for mobile testing");
 	}
+	
+	@Test
+	public void iosTesting1()
+	{
+		System.out.println("This section is for mobile testing");
+	}
 }

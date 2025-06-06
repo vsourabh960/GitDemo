@@ -19,4 +19,16 @@ public class TestDemo {
 		System.out.println("Post jira6");
 	}
 	
+	@Test
+	public void deleteTwitter()
+	{
+		System.out.println("This will delete content on twitter");
+	}
+	
+	@Test
+	public void checkStatus()
+	{
+		System.out.println("This will check the status of website");
+	}
+	
 }

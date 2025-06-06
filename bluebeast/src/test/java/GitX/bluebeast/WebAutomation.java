@@ -6,5 +6,6 @@ public class WebAutomation {
 	@Test
 	public void webTesting() {
 		System.out.println("We are testing web element in this section.");
+		System.out.println("this is test");
 	}
 }
